@@ -1,84 +1,112 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Harsha+%F0%9F%91%8B;B.Tech+CSE+%40+Amrita+Vishwa+Vidyapeetham;Building+full-stack+%26+AI-powered+apps" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0F172A,55:1D4ED8,100:38BDF8&text=Harsha%20Gaduputi&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Full-Stack%20Development%20%7C%20Applied%20AI%20%7C%20Algorithms&descSize=17&descAlignY=58" alt="Harsha Gaduputi: Full-Stack Development, Applied AI, Algorithms" width="100%" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=HarshaGaduputi&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/harsha-chowdary-8a2182324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harshagaduputi0903@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+**B.Tech Computer Science and Engineering** · Amrita Vishwa Vidyapeetham, Coimbatore · Class of 2028
+
+<a href="https://www.linkedin.com/in/harsha-chowdary-8a2182324/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:harshagaduputi0903@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1D4ED8?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/HarshaGaduputi?tab=repositories"><img alt="GitHub Repositories" src="https://img.shields.io/badge/Repositories-475569?style=flat-square&logo=github&logoColor=white" /></a>
+
+[About](#about) · [Education](#education) · [Technical Skills](#technical-skills) · [Featured Projects](#featured-projects) · [GitHub Activity](#github-activity) · [Contact](#contact)
 
 </div>
 
-### About me
+## About
 
-- 🎓 3rd-year CSE student at Amrita Vishwa Vidyapeetham, Coimbatore — Class of 2028, CGPA 8.22/10
-- 🛠️ Building full-stack web apps and AI-integrated tools as course and personal projects
-- 🧠 Comfortable across the stack: React/TypeScript on the frontend, Node.js/Python on the backend
-- 📫 Reach me at **harshagaduputi0903@gmail.com**
+I am a third-year Computer Science and Engineering undergraduate at Amrita Vishwa Vidyapeetham, Coimbatore. My work centres on building full-stack web applications and integrating AI into practical software, supported by a solid grounding in algorithm design.
 
-<br>
+**Areas of focus**
 
-### Tech Stack
+- Full-stack development with React, TypeScript, Node.js and PostgreSQL
+- AI-integrated applications, including LLM-assisted features and semantic search over vector embeddings
+- Algorithm design and analysis, with hands-on implementation in Java
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nodejs,postgres,tailwind,git,vscode" />
-</p>
+## Education
 
-<br>
+| Institution | Programme | Expected Graduation | CGPA |
+| :--- | :--- | :---: | :---: |
+| Amrita Vishwa Vidyapeetham, Coimbatore | B.Tech, Computer Science and Engineering | 2028 | 8.22 / 10 |
 
-### Featured Projects
+## Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1D4ED8?style=flat-square&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1D4ED8?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-1D4ED8?style=flat-square&logo=python&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-1D4ED8?style=flat-square&logo=openjdk&logoColor=white" /> |
+| **Frontend** | <img alt="React" src="https://img.shields.io/badge/React-1D4ED8?style=flat-square&logo=react&logoColor=white" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-1D4ED8?style=flat-square&logo=vite&logoColor=white" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-1D4ED8?style=flat-square&logo=tailwindcss&logoColor=white" /> <img alt="React Router" src="https://img.shields.io/badge/React_Router-1D4ED8?style=flat-square&logo=reactrouter&logoColor=white" /> <img alt="Zustand" src="https://img.shields.io/badge/Zustand-1D4ED8?style=flat-square" /> |
+| **Backend and Data** | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1D4ED8?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/Express-1D4ED8?style=flat-square&logo=express&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="JWT" src="https://img.shields.io/badge/JWT-1D4ED8?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img alt="Nodemailer" src="https://img.shields.io/badge/Nodemailer-1D4ED8?style=flat-square" /> |
+| **AI and Machine Learning** | <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-0284C7?style=flat-square&logo=openai&logoColor=white" /> <img alt="Sentence Transformers" src="https://img.shields.io/badge/Sentence_Transformers-0284C7?style=flat-square" /> <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-0284C7?style=flat-square" /> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0284C7?style=flat-square&logo=numpy&logoColor=white" /> |
+| **Tools and Platforms** | <img alt="Git" src="https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-475569?style=flat-square&logo=github&logoColor=white" /> <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-475569?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-475569?style=flat-square&logo=eclipseide&logoColor=white" /> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-475569?style=flat-square&logo=vercel&logoColor=white" /> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-475569?style=flat-square&logo=playwright&logoColor=white" /> <img alt="ESLint" src="https://img.shields.io/badge/ESLint-475569?style=flat-square&logo=eslint&logoColor=white" /> <img alt="Prettier" src="https://img.shields.io/badge/Prettier-475569?style=flat-square&logo=prettier&logoColor=white" /> |
 
-**[SimplLife](https://github.com/HarshaGaduputi/SimplLife)**
+## Featured Projects
 
-Full-stack task manager with group-based workflows, AI-generated subtasks (OpenAI), undo/redo history, calendar view and email digests.
+### [SimplLife](https://github.com/HarshaGaduputi/SimplLife)
 
-`React` `TypeScript` `Node.js` `PostgreSQL` `OpenAI`
+*Full-stack task management platform*
 
-</td>
-<td width="50%" valign="top">
+A task manager that organises work by group (people or categories) and layers planning, history and automation features on top of a React and Node.js codebase.
 
-**[Team_Finishers_E101A](https://github.com/HarshaGaduputi/Team_Finishers_E101A)**
+- Group-centric workflow with subtasks, templates, priority flags and due-date indicators
+- AI-assisted subtask generation using OpenAI `gpt-4o-mini`, with a rule-based fallback when the model is unavailable
+- 50-step undo and redo history, a recycle bin with restore, and a paginated activity log
+- Calendar view, debounced search with term highlighting, and JSON export and import
+- JWT authentication, PostgreSQL persistence with an in-memory fallback, and a scheduled daily email digest using Nodemailer and node-cron
+- Light and dark themes, responsive layouts and a ready-to-use Vercel deployment configuration
 
-AI agent for a company/banking website — crawler, indexer and query agent for site-aware Q&A.
+<img alt="React" src="https://img.shields.io/badge/React-1D4ED8?style=flat-square&logo=react&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1D4ED8?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-1D4ED8?style=flat-square&logo=vite&logoColor=white" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-1D4ED8?style=flat-square&logo=tailwindcss&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1D4ED8?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/Express-1D4ED8?style=flat-square&logo=express&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-0284C7?style=flat-square&logo=openai&logoColor=white" />
 
-`Python`
+### [Team_Finishers_E101A](https://github.com/HarshaGaduputi/Team_Finishers_E101A)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+*AI agent for company and banking websites (team project)*
 
-**[LightUp Akari — Divide & Conquer](https://github.com/HarshaGaduputi/LightUp-Akari-_Divide_-_Conquer)**
+A question-answering and navigation agent that learns the content of a website and either guides the visitor or takes them directly to the most relevant page.
 
-Implementation of the Akari (Light Up) logic puzzle solved using a divide-and-conquer algorithm.
+- Crawler and indexer pipeline that captures site pages and structure (`pages.json`, `site_map.json`) and builds a searchable index
+- Semantic retrieval using Sentence Transformers (`all-MiniLM-L6-v2`) embeddings stored in ChromaDB and ranked by cosine similarity
+- Confidence-based behaviour: above a 0.75 threshold the agent navigates to the best-matching page automatically using Playwright; below it, the agent returns guidance and the matched content instead
+- Step-by-step reasoning output before any automated navigation, which keeps the agent's decisions transparent
 
-`Java`
+<img alt="Python" src="https://img.shields.io/badge/Python-1D4ED8?style=flat-square&logo=python&logoColor=white" /> <img alt="Sentence Transformers" src="https://img.shields.io/badge/Sentence_Transformers-0284C7?style=flat-square" /> <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-0284C7?style=flat-square" /> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0284C7?style=flat-square&logo=numpy&logoColor=white" /> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-475569?style=flat-square&logo=playwright&logoColor=white" />
 
-</td>
-<td width="50%" valign="top">
+### [LightUp Akari: Divide and Conquer](https://github.com/HarshaGaduputi/LightUp-Akari-_Divide_-_Conquer)
 
-**[My-Expos-Case-Study](https://github.com/HarshaGaduputi/My-Expos-Case-Study)**
+*Algorithm design in Java*
 
-Academic case study project.
+A solver for the Akari (Light Up) logic puzzle built around a divide-and-conquer strategy.
 
-</td>
-</tr>
-</table>
+- Java implementation developed as an Eclipse project
+- Accompanying trace workbook (`Trace_Divide&Conquer.xlsx`) that illustrates how the algorithm executes
+- Presentation (`ppt_Divide&Conquer.pptx`) explaining the approach
 
-<br>
+<img alt="Java" src="https://img.shields.io/badge/Java-1D4ED8?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-475569?style=flat-square&logo=eclipseide&logoColor=white" />
 
-### GitHub Stats
+### [My-Expos-Case-Study](https://github.com/HarshaGaduputi/My-Expos-Case-Study)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshaGaduputi&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaGaduputi&layout=compact&hide_border=true" />
-</p>
+*Academic case study*
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaGaduputi&hide_border=true" />
-</p>
+Coursework case study organised into ten sequential stages, from Stage 1 through Stage 10.
+
+## GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HarshaGaduputi&amp;show_icons=true&amp;border_radius=8&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=38BDF8" />
+  <img alt="GitHub statistics for HarshaGaduputi" height="165" src="https://github-readme-stats.vercel.app/api?username=HarshaGaduputi&show_icons=true&border_radius=8&bg_color=FFFFFF&border_color=E2E8F0&title_color=1D4ED8&text_color=334155&icon_color=0284C7" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaGaduputi&amp;layout=compact&amp;langs_count=6&amp;border_radius=8&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=58A6FF&amp;text_color=C9D1D9" />
+  <img alt="Most used languages on GitHub" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaGaduputi&layout=compact&langs_count=6&border_radius=8&bg_color=FFFFFF&border_color=E2E8F0&title_color=1D4ED8&text_color=334155" />
+</picture>
+
+</div>
+
+## Contact
+
+| Channel | Details |
+| :--- | :--- |
+| **Email** | [harshagaduputi0903@gmail.com](mailto:harshagaduputi0903@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/harsha-chowdary-8a2182324](https://www.linkedin.com/in/harsha-chowdary-8a2182324/) |
+| **GitHub** | [github.com/HarshaGaduputi](https://github.com/HarshaGaduputi) |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,55:1D4ED8,100:38BDF8" alt="" width="100%" />
