@@ -19,17 +19,17 @@ I build complete, usable systems—from responsive interfaces and APIs to data p
 <table>
 <tr>
 <td width="33%" align="center">
-  <img src="https://img.shields.io/badge/BUILD-6366F1?style=flat-square" alt="Build" /><br />
+  <img src="https://img.shields.io/badge/BUILD-6366F1?style=flat" alt="Build" /><br />
   <b>Full-stack products</b><br />
   <sub>Interfaces · APIs · Data</sub>
 </td>
 <td width="33%" align="center">
-  <img src="https://img.shields.io/badge/ANALYZE-0891B2?style=flat-square" alt="Analyze" /><br />
+  <img src="https://img.shields.io/badge/ANALYZE-0891B2?style=flat" alt="Analyze" /><br />
   <b>Applied ML systems</b><br />
   <sub>Experiments · Evaluation · Insight</sub>
 </td>
 <td width="33%" align="center">
-  <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=flat-square" alt="Explore" /><br />
+  <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=flat" alt="Explore" /><br />
   <b>Engineering foundations</b><br />
   <sub>Algorithms · OS · Automation</sub>
 </td>
@@ -42,7 +42,7 @@ I build complete, usable systems—from responsive interfaces and APIs to data p
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/01_PRODUCT_ENGINEERING-6366F1?style=flat-square" alt="Product engineering" />
+<img src="https://img.shields.io/badge/01_PRODUCT_ENGINEERING-6366F1?style=flat" alt="Product engineering" />
 
 ### [SimplLife](https://github.com/HarshaGaduputi/SimplLife)
 
@@ -55,15 +55,15 @@ I build complete, usable systems—from responsive interfaces and APIs to data p
 - 50-step undo/redo and soft-delete recovery
 - Responsive light/dark UI, search, and calendar views
 
-<img src="https://img.shields.io/badge/React-312E81?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-0E7490?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-155E75?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/React-312E81?style=flat&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-4F46E5?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-0E7490?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-155E75?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02_APPLIED_ML-0891B2?style=flat-square" alt="Applied machine learning" />
+<img src="https://img.shields.io/badge/02_APPLIED_ML-0891B2?style=flat" alt="Applied machine learning" />
 
 ### [Urban Energy Efficiency Analysis](https://github.com/HarshaGaduputi/Machine-Learning-Case-Study)
 
@@ -76,17 +76,17 @@ I build complete, usable systems—from responsive interfaces and APIs to data p
 - KNN classifier: **76.45% accuracy**
 - Decision Tree: **0.8501 ROC-AUC**
 
-<img src="https://img.shields.io/badge/Python-312E81?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/pandas-4F46E5?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/scikit--learn-0E7490?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Jupyter-155E75?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Python-312E81?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/pandas-4F46E5?style=flat&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-0E7490?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Jupyter-155E75?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/03_AI_RETRIEVAL-7C3AED?style=flat-square" alt="AI retrieval" />
+<img src="https://img.shields.io/badge/03_AI_RETRIEVAL-7C3AED?style=flat" alt="AI retrieval" />
 
 ### [Website AI Agent](https://github.com/HarshaGaduputi/Team_Finishers_E101A)
 
@@ -99,15 +99,15 @@ I build complete, usable systems—from responsive interfaces and APIs to data p
 - Cosine-similarity ranking
 - Confidence-gated Playwright navigation
 
-<img src="https://img.shields.io/badge/Python-312E81?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Embeddings-4F46E5?style=flat-square" alt="Embeddings" />
-<img src="https://img.shields.io/badge/ChromaDB-0E7490?style=flat-square" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/Playwright-155E75?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Python-312E81?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Embeddings-4F46E5?style=flat" alt="Embeddings" />
+<img src="https://img.shields.io/badge/ChromaDB-0E7490?style=flat" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Playwright-155E75?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/04_LANGUAGE_TECH-0E7490?style=flat-square" alt="Language technology" />
+<img src="https://img.shields.io/badge/04_LANGUAGE_TECH-0E7490?style=flat" alt="Language technology" />
 
 ### [NLP Lab](https://github.com/HarshaGaduputi/NLP)
 
@@ -120,10 +120,10 @@ I build complete, usable systems—from responsive interfaces and APIs to data p
 - Configurable translation backends
 - Structured JSON and Markdown outputs
 
-<img src="https://img.shields.io/badge/Python-312E81?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/NLP-4F46E5?style=flat-square" alt="NLP" />
-<img src="https://img.shields.io/badge/PDF_Parsing-0E7490?style=flat-square" alt="PDF parsing" />
-<img src="https://img.shields.io/badge/Translation-155E75?style=flat-square" alt="Translation" />
+<img src="https://img.shields.io/badge/Python-312E81?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/NLP-4F46E5?style=flat" alt="NLP" />
+<img src="https://img.shields.io/badge/PDF_Parsing-0E7490?style=flat" alt="PDF parsing" />
+<img src="https://img.shields.io/badge/Translation-155E75?style=flat" alt="Translation" />
 
 </td>
 </tr>
@@ -139,10 +139,10 @@ I build complete, usable systems—from responsive interfaces and APIs to data p
 
 | Focus | Technologies and concepts |
 | :--- | :--- |
-| <img src="https://img.shields.io/badge/WEB-6366F1?style=flat-square" alt="Web engineering" /> | React, TypeScript, Node.js, Express, PostgreSQL, REST, JWT, Zustand, Tailwind CSS, Vite |
-| <img src="https://img.shields.io/badge/ML-0891B2?style=flat-square" alt="Machine learning" /> | pandas, NumPy, scikit-learn, EDA, feature engineering, regression, classification, cross-validation |
-| <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square" alt="NLP and retrieval" /> | Sentence Transformers, embeddings, semantic search, ChromaDB, n-gram models |
-| <img src="https://img.shields.io/badge/SYSTEMS-334155?style=flat-square" alt="Tools and systems" /> | Git/GitHub, Docker, Playwright, ESLint, Prettier, eXpOS, SPL, XSM |
+| <img src="https://img.shields.io/badge/WEB-6366F1?style=flat" alt="Web engineering" /> | React, TypeScript, Node.js, Express, PostgreSQL, REST, JWT, Zustand, Tailwind CSS, Vite |
+| <img src="https://img.shields.io/badge/ML-0891B2?style=flat" alt="Machine learning" /> | pandas, NumPy, scikit-learn, EDA, feature engineering, regression, classification, cross-validation |
+| <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat" alt="NLP and retrieval" /> | Sentence Transformers, embeddings, semantic search, ChromaDB, n-gram models |
+| <img src="https://img.shields.io/badge/SYSTEMS-334155?style=flat" alt="Tools and systems" /> | Git/GitHub, Docker, Playwright, ESLint, Prettier, eXpOS, SPL, XSM |
 
 ## 🧩 Engineering foundations
 
