@@ -12,7 +12,7 @@
 
 </div>
 
-## 👋 About me
+## About me
 
 I build complete, usable systems—from responsive interfaces and APIs to data pipelines, machine-learning workflows, and semantic retrieval. I enjoy the point where **software engineering meets applied AI**: taking an idea from a rough problem statement to a structured, working product.
 
@@ -36,7 +36,7 @@ I build complete, usable systems—from responsive interfaces and APIs to data p
 </tr>
 </table>
 
-## 🚀 Featured builds
+## Featured builds
 
 <table>
 <tr>
@@ -129,7 +129,7 @@ I build complete, usable systems—from responsive interfaces and APIs to data p
 </tr>
 </table>
 
-## 🧰 Technical toolkit
+## Technical toolkit
 
 <div align="center">
 
@@ -155,7 +155,7 @@ I build complete, usable systems—from responsive interfaces and APIs to data p
 | <img src="https://img.shields.io/badge/NLP-4F46E5?style=flat" alt="NLP and retrieval" /> | Sentence Transformers, embeddings, semantic search, ChromaDB, n-gram models |
 | <img src="https://img.shields.io/badge/SYSTEMS-1E1B4B?style=flat" alt="Tools and systems" /> | Git/GitHub, Docker, Playwright, ESLint, Prettier, eXpOS, SPL, XSM |
 
-## 🧩 Engineering foundations
+## Engineering foundations
 
 | Project | What it demonstrates |
 | :--- | :--- |
