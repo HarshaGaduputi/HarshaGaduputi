@@ -98,22 +98,14 @@ I am looking for software-engineering and applied AI opportunities including int
 
 <div align="center">
 
-<img width="100%" src="assets/activity-calendar.svg" alt="GitHub Activity Calendar" />
+<img width="100%" src="assets/activity-calendar-2d.svg" alt="GitHub contribution activity" />
 
 <br />
 <br />
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=HarshaGaduputi&show_icons=true&hide_border=true&bg_color=000000&title_color=F6ECE3&text_color=B7A7A9&icon_color=91766E&ring_color=91766E&custom_title=Engineering%20Signal" alt="GitHub stats" />
-</td>
-<td width="50%" align="center" valign="middle">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaGaduputi&layout=donut&exclude_repo=nitrostack,HarshaGaduputi&hide_border=true&bg_color=000000&title_color=F6ECE3&text_color=B7A7A9&custom_title=Language%20Distribution" alt="Language distribution" />
-</td>
-</tr>
-</table>
+<img width="70%" src="assets/languages.svg" alt="Programming language distribution" />
 
+<br />
 <br />
 
 <img width="72%" src="https://streak-stats.demolab.com?user=HarshaGaduputi&hide_border=true&background=000000&ring=F6ECE3&fire=91766E&currStreakLabel=F6ECE3&sideLabels=B7A7A9&dates=91766E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
