@@ -1,219 +1,247 @@
 <div align="center">
 
-<img width="100%" src="assets/profile-header.svg" alt="Harsha Gaduputi — Full-stack engineering and applied AI" />
+# Harsha Gaduputi
+
+### Software Engineering · Applied ML/NLP · Algorithms
+
+**B.Tech Computer Science and Engineering**  
+Amrita Vishwa Vidyapeetham, Coimbatore · Class of 2028
 
 <br />
 
-<a href="https://github.com/HarshaGaduputi?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-000000?style=for-the-badge&logo=github&logoColor=F6ECE3" alt="Explore repositories" /></a>
-<a href="https://www.linkedin.com/in/harsha-chowdary-8a2182324/"><img src="https://img.shields.io/badge/LINKEDIN-91766E?style=for-the-badge&logo=linkedin&logoColor=F6ECE3" alt="LinkedIn" /></a>
-<a href="mailto:harshagaduputi0903@gmail.com"><img src="https://img.shields.io/badge/EMAIL-B7A7A9?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" /></a>
+<a href="https://github.com/HarshaGaduputi?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-0D1117?style=flat-square&logo=github&logoColor=58A6FF" />
+</a>
+<a href="https://www.linkedin.com/in/harsha-chowdary-8a2182324/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" />
+</a>
+<a href="mailto:harshagaduputi0903@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=HarshaGaduputi&style=flat-square&color=58A6FF&label=Profile+Views" />
 
 <br /><br />
 
-**B.Tech Computer Science and Engineering** · Amrita Vishwa Vidyapeetham, Coimbatore · Class of 2028
+> I build end-to-end software where **product engineering meets applied AI**.
 
 </div>
 
-<br />
+---
 
-## ◼ About
+## About
 
-I build complete, usable systems, from responsive interfaces and APIs to data pipelines, machine-learning workflows, and semantic retrieval. I enjoy the point where **software engineering meets applied AI**: taking an idea from a rough problem statement to a structured, working product.
+I'm a Computer Science undergraduate interested in taking ideas beyond prototypes — from problem definition and system design to implementation, evaluation, and usable interfaces.
 
-<table>
-<tr>
-<td width="33%" align="center">
-  <img src="https://img.shields.io/badge/BUILD-000000?style=flat-square" alt="Build" /><br />
-  <b>Full-stack products</b><br />
-  <sub>Interfaces · APIs · Data</sub>
-</td>
-<td width="33%" align="center">
-  <img src="https://img.shields.io/badge/ANALYZE-91766E?style=flat-square" alt="Analyze" /><br />
-  <b>Applied ML systems</b><br />
-  <sub>Experiments · Evaluation · Insight</sub>
-</td>
-<td width="33%" align="center">
-  <img src="https://img.shields.io/badge/EXPLORE-B7A7A9?style=flat-square&labelColor=B7A7A9" alt="Explore" /><br />
-  <b>Engineering foundations</b><br />
-  <sub>Algorithms · OS · Automation</sub>
-</td>
-</tr>
-</table>
+My work currently spans:
 
-<br />
+- **Full-stack engineering** — React, TypeScript, Node.js, Express and PostgreSQL
+- **Machine learning** — preprocessing, feature engineering, regression, classification and evaluation
+- **NLP & retrieval** — language modelling, embeddings, semantic search and multilingual text workflows
+- **Algorithms & systems** — Java algorithm design, operating systems and low-level experimentation
 
-## ◼ Progress at a glance
+---
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaGaduputi&bg_color=000000&color=F6ECE3&line=91766E&point=F6ECE3&area=true&area_color=91766E&hide_border=true&title_color=F6ECE3&radius=6&custom_title=Commit%20Activity%20%E2%80%94%20Last%2031%20Days" alt="Commit activity graph" />
-
-</div>
+## Selected Work
 
 <table>
 <tr>
-<td width="50%" valign="middle" align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=HarshaGaduputi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=F6ECE3&text_color=B7A7A9&icon_color=91766E&ring_color=91766E&custom_title=Commits%2C%20PRs%20%26%20Issues" alt="GitHub stats: commits, pull requests, issues, stars" />
-</td>
-<td width="50%" valign="middle" align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaGaduputi&layout=donut&hide_border=true&bg_color=000000&title_color=F6ECE3&text_color=B7A7A9&langs_count=6&custom_title=Language%20Breakdown" alt="Most used languages" />
-</td>
-</tr>
-</table>
 
-<div align="center">
+<td width="50%" valign="top">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=HarshaGaduputi&hide_border=true&background=000000&ring=91766E&fire=B7A7A9&currStreakLabel=F6ECE3&sideLabels=B7A7A9&dates=91766E&currStreakNum=F6ECE3&sideNums=F6ECE3&stroke=91766E" alt="Contribution streak" />
+### 01 · [SimplLife](https://github.com/HarshaGaduputi/SimplLife)
 
-</div>
+**Full-stack task-management platform**
+
+Built around real product workflows rather than a simple CRUD demo.
+
+- JWT authentication + PostgreSQL
+- AI-assisted task decomposition
+- 50-step undo / redo
+- Soft-delete recovery and activity history
+- Calendar, search and responsive UI
 
 <br />
 
-## ◼ Featured builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/01_PRODUCT_ENGINEERING-000000?style=flat-square" alt="Product engineering" />
-
-### [SimplLife](https://github.com/HarshaGaduputi/SimplLife)
-
-**A full-stack task-management application** for group-based workflows, tasks, subtasks, templates, priorities, due dates, and activity history.
-
-**Engineering highlights**
-
-- PostgreSQL persistence and JWT authentication
-- AI-assisted subtask generation with fallback logic
-- 50-step undo/redo and soft-delete recovery
-- Responsive light/dark UI, search, and calendar views
-
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=F6ECE3" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-91766E?style=flat-square&logo=typescript&logoColor=F6ECE3" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=F6ECE3" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-91766E?style=flat-square&logo=postgresql&logoColor=F6ECE3" alt="PostgreSQL" />
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL`
 
 </td>
+
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02_APPLIED_ML-91766E?style=flat-square" alt="Applied machine learning" />
+### 02 · [Urban Energy Efficiency](https://github.com/HarshaGaduputi/Machine-Learning-Case-Study)
 
-### [Urban Energy Efficiency Analysis](https://github.com/HarshaGaduputi/Machine-Learning-Case-Study)
+**End-to-end machine-learning case study**
 
-**A collaborative ML case study** covering 75,757 buildings, 64 features, preprocessing, model comparison, cross-validation, and tuning.
+Analysis of **75,757 buildings across 64 features**.
 
-**Verified results**
+- 10 regression algorithms
+- 5 classification algorithms
+- Feature engineering + preprocessing
+- Cross-validation + GridSearchCV
+- Model comparison and evaluation
 
-- Random Forest: **0.5029 test R²**
-- Cross-validated R²: **0.5566 ± 0.0105**
-- KNN classifier: **76.45% accuracy**
-- Decision Tree: **0.8501 ROC-AUC**
+**Random Forest:** `R² = 0.5029`  
+**KNN Classifier:** `76.45% accuracy`
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=F6ECE3" alt="Python" />
-<img src="https://img.shields.io/badge/pandas-91766E?style=flat-square&logo=pandas&logoColor=F6ECE3" alt="pandas" />
-<img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F6ECE3" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Jupyter-91766E?style=flat-square&logo=jupyter&logoColor=F6ECE3" alt="Jupyter" />
+<br />
+
+`Python` `pandas` `scikit-learn` `Jupyter`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/03_AI_RETRIEVAL-B7A7A9?style=flat-square&labelColor=B7A7A9" alt="AI retrieval" />
+### 03 · [Website AI Agent](https://github.com/HarshaGaduputi/Team_Finishers_E101A)
 
-### [Website AI Agent](https://github.com/HarshaGaduputi/Team_Finishers_E101A)
+**Semantic retrieval + automated navigation**
 
-**A semantic retrieval and navigation prototype** that crawls website content, builds a vector index, and maps natural-language requests to relevant pages.
+Built a pipeline that turns a website into searchable semantic knowledge.
 
-**Inside the system**
+```text
+Website
+   ↓
+Crawler
+   ↓
+Text Index
+   ↓
+Sentence Embeddings
+   ↓
+ChromaDB
+   ↓
+Cosine Similarity
+   ↓
+Confidence Gate
+   ↓
+Playwright Navigation
+```
 
-- `all-MiniLM-L6-v2` sentence embeddings
-- ChromaDB vector storage
-- Cosine-similarity ranking
-- Confidence-gated Playwright navigation
-
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=F6ECE3" alt="Python" />
-<img src="https://img.shields.io/badge/Embeddings-91766E?style=flat-square" alt="Embeddings" />
-<img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/Playwright-91766E?style=flat-square&logo=playwright&logoColor=F6ECE3" alt="Playwright" />
+`Python` `Sentence Transformers` `ChromaDB` `Playwright`
 
 </td>
+
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/04_LANGUAGE_TECH-000000?style=flat-square" alt="Language technology" />
+### 04 · [NLP Lab](https://github.com/HarshaGaduputi/NLP)
 
-### [NLP Lab](https://github.com/HarshaGaduputi/NLP)
+**Natural-language processing experiments**
 
-**Language-processing experiments and utilities** spanning n-gram modelling and PDF-to-glossary translation workflows.
-
-**What it explores**
+Exploring classical NLP and multilingual processing.
 
 - N-gram language modelling
 - PDF glossary extraction
-- Configurable translation backends
-- Structured JSON and Markdown outputs
+- Translation pipelines
+- Structured JSON / Markdown generation
+- Model-backed multilingual workflows
 
-<img src="https://img.shields.io/badge/Python-91766E?style=flat-square&logo=python&logoColor=F6ECE3" alt="Python" />
-<img src="https://img.shields.io/badge/NLP-000000?style=flat-square" alt="NLP" />
-<img src="https://img.shields.io/badge/PDF_Parsing-91766E?style=flat-square" alt="PDF parsing" />
-<img src="https://img.shields.io/badge/Translation-000000?style=flat-square" alt="Translation" />
+<br />
+
+`Python` `NLP` `Transformers` `PDF Processing`
 
 </td>
+
 </tr>
 </table>
 
-<br />
+---
 
-## ◼ Technical toolkit
+## Technical Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=F6ECE3" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-91766E?style=for-the-badge&logo=react&logoColor=F6ECE3" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=F6ECE3" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-91766E?style=for-the-badge&logo=postgresql&logoColor=F6ECE3" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=F6ECE3" alt="Python" />
-<img src="https://img.shields.io/badge/scikit--learn-91766E?style=for-the-badge&logo=scikitlearn&logoColor=F6ECE3" alt="scikit-learn" />
-<br />
-<img src="https://img.shields.io/badge/Java-91766E?style=for-the-badge&logo=openjdk&logoColor=F6ECE3" alt="Java" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=F6ECE3" alt="Docker" />
-<img src="https://img.shields.io/badge/Playwright-91766E?style=for-the-badge&logo=playwright&logoColor=F6ECE3" alt="Playwright" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F6ECE3" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-91766E?style=for-the-badge&logo=github&logoColor=F6ECE3" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nodejs,express,postgres,tailwind,vite,docker,git,github,vscode&theme=dark" />
 
 </div>
 
 <br />
 
-| Focus | Technologies and concepts |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/WEB-000000?style=flat-square" alt="Web engineering" /> | React, TypeScript, Node.js, Express, PostgreSQL, REST, JWT, Zustand, Tailwind CSS, Vite |
-| <img src="https://img.shields.io/badge/ML-91766E?style=flat-square" alt="Machine learning" /> | pandas, NumPy, scikit-learn, EDA, feature engineering, regression, classification, cross-validation |
-| <img src="https://img.shields.io/badge/NLP-B7A7A9?style=flat-square&labelColor=B7A7A9" alt="NLP and retrieval" /> | Sentence Transformers, embeddings, semantic search, ChromaDB, n-gram models |
-| <img src="https://img.shields.io/badge/SYSTEMS-000000?style=flat-square" alt="Tools and systems" /> | Git/GitHub, Docker, Playwright, ESLint, Prettier, eXpOS, SPL, XSM |
+| Area | Technologies |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · Java |
+| **Frontend** | React · Tailwind CSS · Vite · Zustand |
+| **Backend** | Node.js · Express · REST APIs · JWT |
+| **Data** | PostgreSQL · pandas · NumPy |
+| **Machine Learning** | scikit-learn · Regression · Classification · Feature Engineering · GridSearchCV |
+| **NLP / Retrieval** | Sentence Transformers · Embeddings · Semantic Search · ChromaDB · N-grams |
+| **Automation** | Playwright |
+| **Engineering** | Git · GitHub · Docker · ESLint · Prettier |
+| **Systems** | eXpOS · SPL · XSM |
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=HarshaGaduputi&show_icons=true&show=reviews,prs_merged&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF" />
+
+</td>
+
+<td width="50%">
+
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarshaGaduputi&layout=compact&langs_count=8&exclude_repo=nitrostack,HarshaGaduputi&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+
+</td>
+
+</tr>
+</table>
 
 <br />
 
-## ◼ Engineering foundations
+<img width="70%" src="https://streak-stats.demolab.com?user=HarshaGaduputi&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" />
 
-| Project | What it demonstrates |
-| :--- | :--- |
-| **[LightUp Akari — Divide & Conquer](https://github.com/HarshaGaduputi/LightUp-Akari-_Divide_-_Conquer)** | Java puzzle implementation with a solver, game model, execution traces, and presentation material |
-| **[eXpOS Case Study](https://github.com/HarshaGaduputi/My-Expos-Case-Study)** | Ten-stage operating-systems coursework using SPL and the XSM machine model |
+<br /><br />
 
-<br />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaGaduputi&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=58A6FF&hide_border=true&radius=8&custom_title=Contribution%20Activity" />
+
+</div>
+
+---
+
+## Engineering Foundations
+
+### [LightUp Akari — Divide & Conquer](https://github.com/HarshaGaduputi/LightUp-Akari-_Divide_-_Conquer)
+
+Java implementation of the Akari puzzle combining game modelling, algorithm design, solver logic and execution tracing.
+
+`Java` · `Divide & Conquer` · `Algorithm Design`
+
+### [eXpOS Case Study](https://github.com/HarshaGaduputi/My-Expos-Case-Study)
+
+Ten-stage operating-systems implementation work using SPL and the XSM machine model.
+
+`Operating Systems` · `SPL` · `XSM`
 
 ---
 
 <div align="center">
 
-### Let’s build something useful.
+## Connect
 
-I am interested in **software-engineering and applied AI opportunities** where I can contribute across the stack, learn from strong teams, and ship thoughtful products.
+Interested in software engineering, machine learning, NLP and building useful products.
 
-<a href="mailto:harshagaduputi0903@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-000000?style=for-the-badge&logo=gmail&logoColor=F6ECE3" alt="Start a conversation by email" /></a>
-<a href="https://www.linkedin.com/in/harsha-chowdary-8a2182324/"><img src="https://img.shields.io/badge/CONNECT-91766E?style=for-the-badge&logo=linkedin&logoColor=F6ECE3" alt="Connect on LinkedIn" /></a>
+<br />
 
-<sub>Designed in black · granite · beige · brown.</sub>
+<a href="mailto:harshagaduputi0903@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Harsha-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
+</a>
+
+<a href="https://www.linkedin.com/in/harsha-chowdary-8a2182324/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+</a>
+
+<br /><br />
+
+<sub>
+Build thoughtfully · Measure honestly · Keep improving
+</sub>
 
 </div>
