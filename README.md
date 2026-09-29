@@ -98,11 +98,6 @@ I am looking for software-engineering and applied AI opportunities including int
 
 <div align="center">
 
-<img width="100%" src="assets/activity-calendar-2d.svg" alt="GitHub contribution activity" />
-
-<br />
-<br />
-
 <img width="70%" src="assets/languages.svg" alt="Programming language distribution" />
 
 <br />
