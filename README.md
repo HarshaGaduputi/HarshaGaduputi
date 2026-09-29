@@ -94,16 +94,11 @@ I am looking for software-engineering and applied AI opportunities including int
 
 ---
 
-## ◼ 02 / ACTIVITY TELEMETRY
+## ◼ 02 / GITHUB ACTIVITY
 
 <div align="center">
 
 <img width="100%" src="assets/activity-calendar.svg" alt="GitHub Activity Calendar" />
-
-<br />
-<br />
-
-<img width="100%" src="assets/coding-habits.svg" alt="GitHub Coding Habits" />
 
 <br />
 <br />
