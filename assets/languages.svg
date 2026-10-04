@@ -31,12 +31,12 @@ h1, h2, h3 {
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.64486727763983" height="8" fill="#91766e"/>
-                    <rect mask="url(#languages-bar)" x="398.64486727763983" y="0" width="52.50940953458936" height="8" fill="#b7a7a9"/>
-                    <rect mask="url(#languages-bar)" x="451.15427681222917" y="0" width="4.029387870600263" height="8" fill="#f6ece3"/>
-                    <rect mask="url(#languages-bar)" x="455.1836646828295" y="0" width="3.103001314444282" height="8" fill="#ffffff"/>
-                    <rect mask="url(#languages-bar)" x="458.28666599727376" y="0" width="1.095655487804878" height="8" fill="#6f5b55"/>
-                    <rect mask="url(#languages-bar)" x="459.38232148507865" y="0" width="0.6176785149213768" height="8" fill="#d7c9c0"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="413.6200302485826" height="8" fill="#91766e"/>
+                    <rect mask="url(#languages-bar)" x="413.6200302485826" y="0" width="39.693253324044946" height="8" fill="#b7a7a9"/>
+                    <rect mask="url(#languages-bar)" x="453.3132835726276" y="0" width="3.045921005514523" height="8" fill="#f6ece3"/>
+                    <rect mask="url(#languages-bar)" x="456.3592045781421" y="0" width="2.3456408733361807" height="8" fill="#ffffff"/>
+                    <rect mask="url(#languages-bar)" x="458.7048454514783" y="0" width="0.8282350005225435" height="8" fill="#6f5b55"/>
+                    <rect mask="url(#languages-bar)" x="459.53308045200083" y="0" width="0.466919547999176" height="8" fill="#d7c9c0"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -48,7 +48,7 @@ h1, h2, h3 {
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>86.66%</div>
+                                <div>89.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -59,7 +59,7 @@ h1, h2, h3 {
                                 Java
                             </div>
                             <small>
-                                <div>0.88%</div>
+                                <div>0.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -70,7 +70,7 @@ h1, h2, h3 {
                                 CSS
                             </div>
                             <small>
-                                <div>0.24%</div>
+                                <div>0.18%</div>
                             </small>
                         </div>
                     </section>
@@ -83,7 +83,7 @@ h1, h2, h3 {
                                 TypeScript
                             </div>
                             <small>
-                                <div>11.42%</div>
+                                <div>8.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@ h1, h2, h3 {
                                 Python
                             </div>
                             <small>
-                                <div>0.67%</div>
+                                <div>0.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -105,7 +105,7 @@ h1, h2, h3 {
                                 JavaScript
                             </div>
                             <small>
-                                <div>0.13%</div>
+                                <div>0.1%</div>
                             </small>
                         </div>
                     </section>
